@@ -1,0 +1,3 @@
+/home/maria/phystech/projects/my tetris/build/CMakeFiles/main.dir
+/home/maria/phystech/projects/my tetris/build/CMakeFiles/edit_cache.dir
+/home/maria/phystech/projects/my tetris/build/CMakeFiles/rebuild_cache.dir
